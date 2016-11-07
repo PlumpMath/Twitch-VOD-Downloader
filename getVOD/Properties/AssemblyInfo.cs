@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("getVOD")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Twitch VOD Downloader")]
+[assembly: AssemblyDescription("A twitch VOD downloader that uses Livestreamer and VLC to download these files.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("getVOD")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Atilla Bosma")]
+[assembly: AssemblyProduct("Twitch VOD Downloader")]
+[assembly: AssemblyCopyright("No copyright, ty twitch, vlc and livestreamer")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
