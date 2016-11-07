@@ -10,4 +10,4 @@ Before using this program please install:
 ![Application Screenshot](http://i.imgur.com/dlJ1lXt.png)
 
 #Download
-[Releases Link](https://github.com/abosma/Twitch-VOD-Downloader/releases)
+[Releases](https://github.com/abosma/Twitch-VOD-Downloader/releases)
